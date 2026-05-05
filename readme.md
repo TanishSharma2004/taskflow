@@ -12,8 +12,8 @@ A full-stack collaborative task management web application where teams can creat
 
 ## 🔗 Live Demo
 
-**Frontend:** https://glistening-elegance-production-c892.up.railway.app/login 
-**Backend API:** https://taskflow-production-fc88.up.railway.app/
+**Frontend:** https://glistening-elegance-production-c892.up.railway.app
+**Backend API:** https://taskflow-production-fc88.up.railway.app
 
 ---
 
