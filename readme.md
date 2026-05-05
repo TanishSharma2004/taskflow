@@ -1,4 +1,4 @@
-[# TaskFlow — Team Task Manager
+# TaskFlow — Team Task Manager
 
 A full-stack task management app built with React, Node.js, Express, and PostgreSQL.
 
